@@ -1,2 +1,2 @@
-# TestProject
-this is a test project for learning git
+# TrainProject
+this is a train project for learning git

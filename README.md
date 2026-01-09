@@ -1,2 +1,2 @@
-# TrainProject
-this is a train project for learning git
+# Practice_Project
+this is a practice project for learning git
